@@ -1,0 +1,57 @@
+[submodule "libs/JUCE"]
+	path = libs/JUCE
+	url = https://github.com/juce-framework/JUCE.git
+[submodule "libs/melatonin_blur"]
+	path = libs/melatonin_blur
+	url = https://github.com/sudara/melatonin_blur.git
+[submodule "libs/melatonin_inspector"]
+	path = libs/melatonin_inspector
+	url = https://github.com/sudara/melatonin_inspector.git
+[submodule "libs/chowdsp_utils"]
+	path = libs/chowdsp_utils
+	url = https://github.com/Chowdhury-DSP/chowdsp_utils.git
+[submodule "libs/Gin"]
+	path = libs/Gin
+	url = https://github.com/FigBug/Gin.git
+[submodule "libs/ff_meters"]
+	path = libs/ff_meters
+	url = https://github.com/ffAudio/ff_meters.git
+[submodule "libs/friz"]
+	path = libs/friz
+	url = https://github.com/bgporter/animator.git
+[submodule "libs/melatonin_perfetto"]
+	path = libs/melatonin_perfetto
+	url = https://github.com/sudara/melatonin_perfetto.git
+[submodule "libs/melatonin_parameters"]
+	path = libs/melatonin_parameters
+	url = https://github.com/sudara/melatonin_parameters.git
+[submodule "libs/melatonin_test_helpers"]
+	path = libs/melatonin_test_helpers
+	url = https://github.com/sudara/melatonin_test_helpers.git
+[submodule "libs/melatonin_audio_sparklines"]
+	path = libs/melatonin_audio_sparklines
+	url = https://github.com/sudara/melatonin_audio_sparklines.git
+[submodule "libs/RTNeural"]
+	path = libs/RTNeural
+	url = https://github.com/jatinchowdhury18/RTNeural.git
+[submodule "libs/signalsmith-dsp"]
+	path = libs/signalsmith-dsp
+	url = https://github.com/Signalsmith-Audio/dsp.git
+[submodule "libs/signalsmith-stretch"]
+	path = libs/signalsmith-stretch
+	url = https://github.com/Signalsmith-Audio/signalsmith-stretch.git
+[submodule "libs/tweeny"]
+	path = libs/tweeny
+	url = https://github.com/mobius3/tweeny.git
+[submodule "libs/xsimd"]
+	path = libs/xsimd
+	url = https://github.com/xtensor-stack/xsimd.git
+[submodule "libs/clap-juce-extensions"]
+	path = libs/clap-juce-extensions
+	url = https://github.com/free-audio/clap-juce-extensions.git
+[submodule "libs/foleys_gui_magic"]
+	path = libs/foleys_gui_magic
+	url = https://github.com/ffAudio/foleys_gui_magic.git
+[submodule "libs/sound_meter"]
+	path = libs/sound_meter
+	url = https://github.com/SoundDevelopment/sound_meter.git
